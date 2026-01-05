@@ -5,3 +5,5 @@
 - **Duplicate Order Throttling**: Flags identical phone numbers submitting multiple orders in < 15 minutes.
 - **District Verification**: Confirms valid postal district combinations against Bangladesh postal data.
 - **Manual Review Flag**: High-risk orders marked for administrative telephone verification before dispatch.
+
+<!-- Note: 2026-01-05 - Velocity check threshold calibrated -->
