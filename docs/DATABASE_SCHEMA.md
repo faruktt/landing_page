@@ -6,3 +6,5 @@
 - **courier_settings**: Credentials and webhook tokens for logistics partners.
 - **blocked_ips**: Blacklisted client IPs flagged by fraud detection algorithms.
 - **settings**: Global site parameters including delivery charges inside/outside Dhaka.
+
+<!-- Note: 2026-01-09 - Order index optimization documented -->
