@@ -7,3 +7,5 @@
 - **Manual Review Flag**: High-risk orders marked for administrative telephone verification before dispatch.
 
 <!-- Note: 2026-01-05 - Velocity check threshold calibrated -->
+
+<!-- Note: 2026-01-15 - Velocity check threshold calibrated -->
