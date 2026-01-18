@@ -14,3 +14,5 @@ php artisan key:generate
 php artisan migrate --seed
 npm install && npm run build
 ```
+
+<!-- Note: 2026-01-18 - Production environment variables verified -->
