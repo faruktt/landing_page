@@ -8,3 +8,5 @@
 - `api_key`: Logistics API authentication key.
 - `secret_key`: Courier partner secret token.
 - `webhook_url`: Notification endpoint for delivery status callbacks.
+
+<!-- Note: 2026-01-22 - Webhook payload validation verified -->
