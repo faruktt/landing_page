@@ -8,3 +8,5 @@
 6. **Delivery & Settlement**: Webhook tracking updates order status to completed or returned.
 
 <!-- Note: 2026-01-05 - Consignment state transition reviewed -->
+
+<!-- Note: 2026-01-24 - Consignment state transition reviewed -->
