@@ -10,3 +10,5 @@
 - `webhook_url`: Notification endpoint for delivery status callbacks.
 
 <!-- Note: 2026-01-22 - Webhook payload validation verified -->
+
+<!-- Note: 2026-01-24 - Webhook payload validation verified -->
