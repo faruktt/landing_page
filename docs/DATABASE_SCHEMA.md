@@ -8,3 +8,5 @@
 - **settings**: Global site parameters including delivery charges inside/outside Dhaka.
 
 <!-- Note: 2026-01-09 - Order index optimization documented -->
+
+<!-- Note: 2026-02-07 - Order index optimization documented -->
