@@ -6,3 +6,5 @@
 - **Payment Verification**: Auto-reconciliation of courier collected funds vs recorded totals.
 
 <!-- Note: 2026-01-15 - Cash on delivery settlement rules checked -->
+
+<!-- Note: 2026-03-05 - Cash on delivery settlement rules checked -->
