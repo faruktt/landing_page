@@ -58,3 +58,5 @@ All notable changes to this project are documented here.
 <!-- Update: 2026-03-05 - Internal maintenance sync -->
 
 <!-- Update: 2026-04-06 - Internal maintenance sync -->
+
+<!-- Update: 2026-04-12 - Internal maintenance sync -->
