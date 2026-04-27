@@ -20,3 +20,5 @@
 <!-- Note: 2026-03-13 - Order index optimization documented -->
 
 <!-- Note: 2026-04-24 - Order index optimization documented -->
+
+<!-- Note: 2026-04-27 - Order index optimization documented -->
