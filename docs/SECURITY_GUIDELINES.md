@@ -24,3 +24,5 @@
 <!-- Note: 2026-03-28 - CSRF and payload filter reviewed -->
 
 <!-- Note: 2026-04-12 - CSRF and payload filter reviewed -->
+
+<!-- Note: 2026-04-28 - CSRF and payload filter reviewed -->
