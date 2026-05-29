@@ -18,3 +18,5 @@
 <!-- Note: 2026-05-20 - Cash on delivery settlement rules checked -->
 
 <!-- Note: 2026-05-20 - Cash on delivery settlement rules checked -->
+
+<!-- Note: 2026-05-29 - Cash on delivery settlement rules checked -->
