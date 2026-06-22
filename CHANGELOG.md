@@ -14,3 +14,7 @@ All notable changes to this project are documented here.
 - Integrated Steadfast Courier API for parcel booking.
 - Added tracking code fields in order model.
 
+### v1.0.4
+- Added fraud detection modal in admin order view.
+- Implemented IP blacklist filter.
+
