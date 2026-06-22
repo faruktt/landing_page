@@ -10,3 +10,7 @@ All notable changes to this project are documented here.
 - Added district and upazila dropdown selector.
 - Configured standard delivery charges.
 
+### v1.0.3
+- Integrated Steadfast Courier API for parcel booking.
+- Added tracking code fields in order model.
+
