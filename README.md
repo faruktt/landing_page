@@ -66,3 +66,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 <!-- Update: Jun 19, 2026 -->
 * Verified compatibility and documentation updates on June 19, 2026.
+
+<!-- Update: Jun 22, 2026 -->
+* Verified compatibility and documentation updates on June 22, 2026.
