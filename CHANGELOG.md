@@ -18,3 +18,7 @@ All notable changes to this project are documented here.
 - Added fraud detection modal in admin order view.
 - Implemented IP blacklist filter.
 
+### v1.0.5
+- Improved mobile responsive checkout layout.
+- Optimized image loading with WebP format.
+
