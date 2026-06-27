@@ -22,3 +22,7 @@ All notable changes to this project are documented here.
 - Improved mobile responsive checkout layout.
 - Optimized image loading with WebP format.
 
+### v1.0.6
+- Added related addons picker in product settings.
+- Support for multi-quantity discounts.
+
