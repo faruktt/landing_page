@@ -26,3 +26,7 @@ All notable changes to this project are documented here.
 - Added related addons picker in product settings.
 - Support for multi-quantity discounts.
 
+### v1.0.7
+- Enhanced customer duplicate order check.
+- Added incomplete orders recovery tracker.
+
