@@ -30,3 +30,7 @@ All notable changes to this project are documented here.
 - Enhanced customer duplicate order check.
 - Added incomplete orders recovery tracker.
 
+### v1.0.8
+- Refactored admin courier settings configuration screen.
+- Added live parcel tracking link generation.
+
