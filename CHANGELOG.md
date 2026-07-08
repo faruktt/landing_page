@@ -34,3 +34,7 @@ All notable changes to this project are documented here.
 - Refactored admin courier settings configuration screen.
 - Added live parcel tracking link generation.
 
+### v1.0.9
+- Performance tuning for database queries on dashboard metrics.
+- Polished order invoice generation template.
+
