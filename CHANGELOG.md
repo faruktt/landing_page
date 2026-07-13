@@ -38,3 +38,7 @@ All notable changes to this project are documented here.
 - Performance tuning for database queries on dashboard metrics.
 - Polished order invoice generation template.
 
+### v1.1.0
+- Finalized landing template 3 with modern aesthetic.
+- Automated courier consignment status syncing.
+
