@@ -26,3 +26,5 @@
 <!-- Note: 2026-06-04 - Webhook payload validation verified -->
 
 <!-- Note: 2026-08-07 - Webhook payload validation verified -->
+
+<!-- Note: 2026-08-11 - Webhook payload validation verified -->
