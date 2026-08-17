@@ -20,3 +20,5 @@
 <!-- Note: 2026-05-26 - Consignment state transition reviewed -->
 
 <!-- Note: 2026-06-05 - Consignment state transition reviewed -->
+
+<!-- Note: 2026-08-17 - Consignment state transition reviewed -->
