@@ -29,3 +29,5 @@
 <!-- Note: 2026-08-12 - Velocity check threshold calibrated -->
 
 <!-- Note: 2026-08-28 - Velocity check threshold calibrated -->
+
+<!-- Note: 2026-09-17 - Velocity check threshold calibrated -->
